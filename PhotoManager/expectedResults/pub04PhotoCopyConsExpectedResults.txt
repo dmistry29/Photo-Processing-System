@@ -1,2 +1,0 @@
-Original: umcp/college1.jpg,300,400,10/18/2020-17:10, Lunch
-Copy: umcp/college1.jpg,300,400,10/18/2020-17:10, Lunch,Dinner
