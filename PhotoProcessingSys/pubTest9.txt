@@ -1,5 +1,0 @@
-clearScreen
-Display umcp1.jpg
-displayPictureSelectRedGreenBlue: umcp1.jpg, truetruefalse
-
-EndTestSubServer
