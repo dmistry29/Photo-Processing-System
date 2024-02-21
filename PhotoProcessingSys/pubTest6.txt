@@ -1,4 +1,0 @@
-Display umcp1.jpg
-displayPictureBlackWhitePosterize: umcp1.jpg, truefalse
-
-EndTestSubServer
