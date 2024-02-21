@@ -1,9 +1,0 @@
-clearScreen
-Display umcp1.jpg
-displayPictureSelectRedGreenBlue: umcp1.jpg, truetruefalse
-Image Transactions
-Transaction #1: clearScreen
-Transaction #2: Display umcp1.jpg
-Transaction #3: displayPictureSelectRedGreenBlue: umcp1.jpg, truetruefalse
-
-EndTestSubServer
