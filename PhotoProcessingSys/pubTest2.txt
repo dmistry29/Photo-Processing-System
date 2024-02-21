@@ -1,6 +1,0 @@
-Customer Name: John
-Customer Address: 8134 Java St. Silver Spring VA 21567
-Balance: 0.0
-
-
-EndTestSubServer
