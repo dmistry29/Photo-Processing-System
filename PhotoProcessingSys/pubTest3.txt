@@ -1,3 +1,0 @@
-Display umcp1.jpg
-
-EndTestSubServer
