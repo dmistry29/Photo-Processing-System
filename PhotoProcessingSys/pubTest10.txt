@@ -1,0 +1,5 @@
+clearScreen
+Display umcp1.jpg
+displayPictureSelectRedGreenBlue: umcp1.jpg, truetruefalse
+4.0
+EndTestSubServer

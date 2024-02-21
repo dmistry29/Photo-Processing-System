@@ -1,0 +1,5 @@
+Display umcp1.jpg
+clearScreen
+Display umcp1.jpg
+
+EndTestSubServer

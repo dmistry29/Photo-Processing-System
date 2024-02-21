@@ -1,0 +1,5 @@
+clearScreen
+Display umcp1.jpg
+displayPictureBlackWhitePosterize: umcp1.jpg, truetrue
+
+EndTestSubServer
